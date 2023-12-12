@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-12-12T20:20:41.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3v2IwhQ24ay4zWzhi4CH" version="22.1.7" type="github">
+  <diagram id="1cee9afd-dcdd-cf27-cb82-50d77dad4855" name="Page-1">
+    <mxGraphModel dx="1671" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ThGJ15uXNUf0RNEpSx--26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="315" y="40" width="220" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="c1cb8d76720eaeb-6" value="Manage Comments and Documents" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="365" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c1cb8d76720eaeb-26" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Manage Recovery Strategies&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="365" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ThGJ15uXNUf0RNEpSx--27" value="Public Registry Interaction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ThGJ15uXNUf0RNEpSx--28" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Assign Feasibility Options&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="365" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-11" value="Project Manager" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=4;fillColor=#030203;strokeColor=#000000;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-13" value="Business Analysts" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=4;fillColor=#030203;strokeColor=#000000;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-14" value="System analyst" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=4;fillColor=#030203;strokeColor=#000000;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-15" value="Developer Teams" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=4;fillColor=#030203;strokeColor=#000000;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-16" value="Tester" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=4;fillColor=#030203;strokeColor=#000000;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-17" value="Change Management and Communications team" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=4;fillColor=#030203;strokeColor=#000000;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-18" value="Authorized Users" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=4;fillColor=#030203;strokeColor=#000000;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="250" y="980" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-19" value="Manage Reasons/Details for Feasibility Options" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-20" value="Manage Comments and Documents" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-24" value="Manage action plans" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-25" value="Assign Action plans to Recovery Strategies" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-26" value="Manage monitoring/reporting documents" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-28" value="Manage Authorized users" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXkf0V2V1COPAbD15EZ_-29" value="Manage Authorized users" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
